@@ -1,0 +1,10 @@
+*.tfstate
+*.tfvars
+.terraform/
+create_architecture_diagram_ja.py
+create_architecture_diagram.py
+create_detailed_architecture_ja.py
+create_detailed_architecture.py
+dev-to-blog-ja.md
+dev-to-blog.md
+AmazonQ.md
