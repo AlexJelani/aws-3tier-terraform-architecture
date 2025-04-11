@@ -79,3 +79,4 @@ aws_credentials
 aws_access_keys.csv
 .aws/
 .ssh/
+my-ec2-key.pem
