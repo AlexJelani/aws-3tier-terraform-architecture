@@ -45,6 +45,9 @@ wheels/
 # Uncomment if you want to exclude generated diagrams
 # *.png
 
+# Blog directory
+blog/
+
 # IDE files
 .idea/
 .vscode/
