@@ -55,3 +55,27 @@ wheels/
 # Local development files
 .env
 .envrc
+
+# Security and credentials
+*.pem
+*.key
+*.crt
+*.cer
+*.p12
+*.pfx
+*.jks
+*.keystore
+*.truststore
+id_rsa
+id_dsa
+*.pub
+credentials
+credentials.json
+*_rsa
+*_dsa
+*_ed25519
+*_ecdsa
+aws_credentials
+aws_access_keys.csv
+.aws/
+.ssh/
